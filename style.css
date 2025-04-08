@@ -1,0 +1,28 @@
+body {
+    margin: 25px 50px 50px 25px;
+    background-image: url('https://images.pexels.com/photos/3001333/pexels-photo-3001333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
+h2 {
+    color: white;
+}
+.menu {
+    text-align: right;
+    word-spacing: 10px;
+}
+h1 {
+    text-align: center;
+}
+#desc {
+    font-family:'Times New Roman';
+    text-align: center;
+    color: black;
+}
+
+flight:hover {
+    background-color: black;
+    color: white;
+}
+table {
+    border: solid lightskyblue 2px;
+    color: lightblue;
+}
